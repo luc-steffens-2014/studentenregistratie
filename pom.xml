@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.thomasmore.oo3.course</groupId>
-    <artifactId>student-registration</artifactId>
+    <artifactId>ticketing</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>student-registration</name>
+    <name>ticketing</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
